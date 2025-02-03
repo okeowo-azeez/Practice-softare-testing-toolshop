@@ -1,0 +1,1 @@
+[![Playwright Tests](https://github.com/okeowo-azeez/Practice-softare-testing-toolshop/actions/workflows/playwright.yml/badge.svg)](https://github.com/okeowo-azeez/Practice-softare-testing-toolshop/actions/workflows/playwright.yml)
